@@ -12,7 +12,7 @@ Browser("Inicio").Page("Mujer Banorte").WebButton("x").Click @@ hightlight id_;_
 Browser("Inicio").Page("Mujer Banorte_2").Link("Consulta costos y comisiones").Click @@ hightlight id_;_Browser("Inicio").Page("Mujer Banorte 2").Link("Consulta costos y comisiones")_;_script infofile_;_ZIP::ssf14.xml_;_
 Browser("Inicio").Page("Consulta costos y comisiones").WebElement("Comisiones Banorte | Cuentas").Click
 Browser("Inicio").WinObject("Notification bar").WinButton("Open").Click @@ hightlight id_;_1974027376_;_script infofile_;_ZIP::ssf16.xml_;_
- @@ hightlight id_;_2092144784_;_script infofile_;_ZIP::ssf20.xml_;_
+'Cambio 1 @@ hightlight id_;_2092144784_;_script infofile_;_ZIP::ssf20.xml_;_
  @@ hightlight id_;_65676_;_script infofile_;_ZIP::ssf21.xml_;_
  
  
