@@ -15,6 +15,7 @@ Browser("Inicio").WinObject("Notification bar").WinButton("Open").Click @@ hight
 'Cambio 1 @@ hightlight id_;_2092144784_;_script infofile_;_ZIP::ssf20.xml_;_
 'Cambio 2
 'Cambio 3
+'Cambio 4
  @@ hightlight id_;_65676_;_script infofile_;_ZIP::ssf21.xml_;_
  
  
